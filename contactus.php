@@ -195,7 +195,7 @@ mail($my_email,$subject,$message,$headers);
 </div>
         <div class="bg">
           <h1>7<sup>th</sup> International Conference on Environmental<br>Pollution and Remediation (ICEPR'17)</h1>
-          <p class="subhead">June 7 - 8, 2016 | Rome, Italy</p>
+          <p class="subhead">June 7 - 8, 2017 | Rome, Italy</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -221,7 +221,7 @@ mail($my_email,$subject,$message,$headers);
 
         <div class="bg">
           <h1>7<sup>th</sup> International Conference on Environmental<br>Pollution and Remediation (ICEPR'17)</h1>
-          <p class="subhead">June 7 - 8, 2016 | Rome, Italy</p>
+          <p class="subhead">June 7 - 8, 2017 | Rome, Italy</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -304,7 +304,7 @@ mail($my_email,$subject,$message,$headers);
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    Dec. 1, 2016
+    Dec. 1, 2017
   </div>
 </div>
 
@@ -419,7 +419,7 @@ mail($my_email,$subject,$message,$headers);
 
 <div class="copyright">
   <a href="http://international-aset.com">International ASET Inc.</a> | <a href="http://international-aset.com/phplistpublic/?p=subscribe&id=1">Subscribe</a> | <a href="../terms">Terms of Use</a> | <a href="../sitemap">Sitemap</a>
-  <p class="body">&copy; Copyright International ASET Inc., 2016. All rights reserved.</p>
+  <p class="body">&copy; Copyright International ASET Inc., 2017. All rights reserved.</p>
   <p class="copyright1">Have any feedback? Please provide them here: <script>var refURL = window.location.protocol + "//" + window.location.host + window.location.pathname; document.write('<a href="http://international-aset.com/feedback/?refURL=' + refURL+'" class="body-link">Feedback</a>');</script></p>
 </div>
 </div>
